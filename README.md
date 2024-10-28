@@ -44,7 +44,3 @@ To get this project up and running on your local machine, follow these steps:
 - [React Router](https://reactrouter.com/): For routing and navigation.
 - [React Icons](https://react-icons.github.io/react-icons/): Icon library.
 - [React HTML to PDF](https://www.npmjs.com/package/react-html-to-pdf): For exporting resumes as PDFs.
-
----
-
-This README provides essential details to understand and set up the Resume Builder project. Let me know if you need more!
