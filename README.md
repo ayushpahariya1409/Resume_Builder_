@@ -1,5 +1,3 @@
-Here’s a README for your Resume Builder Website project without images:
-
 # Resume Builder Website
 
 Welcome to the Resume Builder Website! This project allows users to create professional, personalized resumes quickly and easily.
