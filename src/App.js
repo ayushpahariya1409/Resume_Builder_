@@ -1,4 +1,3 @@
-import React from 'react';
 import { Helmet } from 'react-helmet';
 import './App.css';
 import ResumeState from './Context/ResumeState';

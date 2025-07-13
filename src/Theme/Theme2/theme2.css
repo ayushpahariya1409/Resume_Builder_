@@ -1,10 +1,8 @@
 .info-text {
-    /* margin: 43px 70px 36px 70px; */
     margin-bottom: 30px;
 }
 
 #theme2 {
-    /* margin: 50px 70px; */
     padding: 47px 60px;
 }
 
@@ -15,7 +13,6 @@
     object-position: 50% 25%;
 }
 
-/* media quires */
 @media only screen and (max-width: 715px) {
     #theme2 {
         padding: 47px 19px;
@@ -39,5 +36,4 @@
     #theme2 {
         padding: 14px 10px;
     }
-
 }

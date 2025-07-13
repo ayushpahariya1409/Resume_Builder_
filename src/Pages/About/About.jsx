@@ -12,7 +12,6 @@ const testimonials = [
     }
 ];
 
-
 function TestimonialCard(props) {
     const { name, role, content, avatar } = props;
     return (
@@ -150,6 +149,5 @@ export default function About() {
                 </Box>
             </Flex>
         </>
-
     );
 }

@@ -1,5 +1,5 @@
 import { Box, chakra, Container, Stack, Text, Image, useColorModeValue, VisuallyHidden, } from '@chakra-ui/react';
-import { FaInstagram, FaSnapchat, FaGithub,FaLinkedin } from 'react-icons/fa';
+import { FaInstagram, FaGithub,FaLinkedin } from 'react-icons/fa';
 import logo from './../../Assets/logo.png';
 
 

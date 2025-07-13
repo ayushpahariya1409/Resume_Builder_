@@ -101,9 +101,7 @@ const Theme3 = (props) => {
                 </Text>
               </Box>
             </Box> </> }
-
             <div className="w-100 border m-auto"></div>
-
             <Box display={"flex"} className="w-full my-4">
               <Heading as="h3" size="md" minWidth={175} fontFamily="serif">
                 Education
@@ -243,4 +241,3 @@ const Theme3 = (props) => {
 };
 
 export default Theme3;
-

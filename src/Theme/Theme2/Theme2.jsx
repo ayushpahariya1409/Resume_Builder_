@@ -6,13 +6,11 @@ import ResumeContext from '../../Context/ResumeContext';
 const Theme2 = (props) => {
     const { componentRef, themeData } = props;
     const { name, address, phone, email, profile, profileImage, summary, skill } = themeData.personalData;
-
     const { checkProj, checkWork, checkAward } = useContext(ResumeContext)
     const { projectTitles, projectDesc } = themeData.projectData;
     const { educationTitles, educationDesc } = themeData.educationData;
     const { workTitles, workDesc } = themeData.workData;
     const { awards } = themeData.awardData;
-
 
     return (
         <Box id="section-to-print" ref={componentRef}>
@@ -90,7 +88,6 @@ const Theme2 = (props) => {
                                 })
                             }
                         </Box>
-
                         {
                             !checkProj &&
                             <Box id='project-area'>
@@ -156,12 +153,10 @@ const Theme2 = (props) => {
                                 </Box>
                             </Box>
                         }
-
                     </section>
                 </section>
             </Box>
         </Box>
     )
 }
-
 export default Theme2
